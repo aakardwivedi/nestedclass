@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1431943505 source:c:\users\shivam dwivedi\desktop\coding and hacking\code blocs programs\nestedclass\main.cpp
+	<iostream>
+	"People.h"
+	"Birthday.h"
+
+1431944447 c:\users\shivam dwivedi\desktop\coding and hacking\code blocs programs\nestedclass\include\people.h
+	<iostream>
+	<string>
+	"Birthday.h"
+
+1431943504 c:\users\shivam dwivedi\desktop\coding and hacking\code blocs programs\nestedclass\include\birthday.h
+	<iostream>
+
+1431943527 source:c:\users\shivam dwivedi\desktop\coding and hacking\code blocs programs\nestedclass\src\birthday.cpp
+	<iostream>
+	"Birthday.h"
+
+1431943749 source:c:\users\shivam dwivedi\desktop\coding and hacking\code blocs programs\nestedclass\src\people.cpp
+	<iostream>
+	<string>
+	"People.h"
+	"Birthday.h"
+
